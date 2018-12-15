@@ -1,0 +1,883 @@
+- section: about
+  categories:
+  - category: 本站公告
+    links:
+    - name: 加入探讨组
+      icon: qq black
+      style: basic
+      url: https://jq.qq.com/?_
+
+    - name: 六七八导航App版本上线了~
+      icon: github black
+      style: basic
+      url: https://blog.lq8.net/App
+
+    - name: 六七八组织·招募成员丨为探索而前行·为自由而构建！
+      icon: github black
+      style: basic
+      url: https://bbs.lq8.net/
+
+- section: scholar
+  categories:
+  - category: 国风
+    links:
+    - name: 汉典
+      style: basic
+      url: http://www.zdic.net/
+
+    - name: 汉籍
+      style: basic
+      url: http://www.hanjilibrary.cn/
+
+    - name: 词源
+      style: basic
+      url: http://www.zhongwen.com/
+
+    - name: 字源
+      style: basic
+      url: http://hanziyuan.net/
+
+    - name: 古籍馆
+      style: basic
+      url: https://www.gujiguan.com/#
+
+    - name: 书同文
+      style: basic
+      url: http://guji.unihan.com.cn/
+
+    - name: 爱如生
+      style: basic
+      url: http://er07.com/
+
+    - name: 书伴
+      style: basic
+      url: https://bookfere.com/novice
+
+    - name: 小书屋
+      icon: home
+      style: blue
+      url: http://mebook.cc/
+
+    - name: 爱如生
+      style: basic
+      url: http://forum.er07.com/
+
+    - name: 周读
+      style: basic
+      url: http://ireadweek.com/index.php/Index/index.html
+
+    - name: 道印
+      style: basic
+      url: https://www.daoon.com/
+
+    - name: 搜韵
+      style: basic
+      url: https://sou-yun.com/index.aspx
+
+    - name: 书格
+      icon: book
+      style: basic
+      url: https://shuge.org/
+
+    - name: 有路网
+      style: basic
+      url: http://www.youlu.net/
+
+    - name: 孔夫子
+      icon: google play
+      style: basic
+      url: https://m.kongfz.com/shop/
+
+    - name: 丝绸之路
+      style: basic
+      url: http://dsr.nii.ac.jp/
+
+    - name: 上图发现
+      style: basic
+      url: http://en.shl.findplus.cn/
+      
+    - name: 文津搜素
+      style: basic
+      url: http://find.nlc.cn/
+
+
+
+  - category: 图书馆
+    links:
+    - name: 大英图书馆
+      style: basic
+      url: https://www.bl.uk/
+
+    - name: 法国图书馆
+      style: basic
+      url: https://gallica.bnf.fr/accueil/?mode=desktop
+
+    - name: 国家图书馆
+      style: blue
+      url: http://www.nlc.gov.cn/
+
+    - name: 台湾图书馆
+      style: basic
+      url: https://www.ncl.edu.tw/
+
+    - name: 世界数字图书馆
+      icon: bank black
+      style: basic
+      url: https://www.wdl.org/zh/
+
+    - name: 剑桥数字图书馆
+      style: basic
+      url: http://cudl.lib.cam.ac.uk/
+
+    - name: 柏林数字图书馆
+      style: basic
+      url: https://digital.staatsbibliothek-berlin.de/
+
+    - name: 大英数字图书馆
+      style: basic
+      url: https://www.bl.uk/catalogues-and-collections/digital-collections
+
+    - name: 哈佛图书馆
+      style: basic
+      url: https://library.harvard.edu/
+
+    - name: 牛津大学图书馆
+      style: basic
+      url: http://digital.bodleian.ox.ac.uk/
+
+    - name: 互联网档案馆
+      style: basic
+      url: https://archive.org/
+
+    - name: 哈佛丨中国研究
+      style: orange
+      url: https://guides.library.harvard.edu/Chinese
+
+    - name: 日本国会图书馆
+      style: basic
+      url: http://www.ndl.go.jp/jp/use/service/index.html
+
+    - name: Literary youths are moving forward here!
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 博物馆
+    links:
+    - name: 卢浮宫
+      style: basic
+      url: https://www.louvre.fr/
+
+    - name: 秦皇陵
+      style: basic
+      url: http://www.bmy.com.cn/2015new/index.htm
+
+    - name: 大英博物馆
+      style: basic
+      url: https://www.britishmuseum.org/research/collection_online/search.aspx
+
+    - name: 梵蒂冈博物馆
+      style: basic
+      url: http://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html
+
+    - name: 中国国家博物馆
+      style: basic
+      url: http://www.chnmuseum.cn/default.aspx?AspxAutoDetectCookieSupport=1
+
+    - name: 河北博物院
+      style: basic
+      url: http://bwy.hbdjdz.com/
+
+    - name: 上海博物馆
+      style: basic
+      url: http://www.shanghaimuseum.net/museum/frontend/collection/index.action
+
+    - name: 湖北博物馆
+      style: basic
+      url: http://www.hbww.org/Views/CollectionIndex.aspx?PNo=Collection&No=Collection&type=Default
+
+    - name: 北京故宫博物院
+      icon: app store
+      style: basic
+      url: http://www.dpm.org.cn/explore/collections.html
+
+    - name: 台北国立故宫博物院
+      icon: app store red
+      style: basic
+      url: http://south.npm.gov.tw/zh-TW/SiteMap
+
+    - name: 东京大学综合馆
+      style: basic
+      url: http://www.um.u-tokyo.ac.jp/web_museum/database.html
+
+    - name: 链接失效或与内容不符，请联系修改
+      style: white
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E.html
+
+  - category: 学衡
+    links:
+    - name: 双红堂
+      style: basic
+      url: http://hong.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 西历转换
+      style: basic
+      url: http://sinocal.sinica.edu.tw/
+
+    - name: 古登堡中文
+      style: basic
+      url: http://www.gutenberg.org/browse/languages/zh
+
+    - name: 中华珍宝馆
+      style: basic
+      url: http://ltfc.net/
+
+    - name: 中华文史网
+      style: basic
+      url: http://www.historychina.net/#stepflow03
+
+    - name: 中华文化总会
+      style: basic
+      url: http://www.gacc.org.tw/
+
+    - name: 汉学资源丨蒋经国基金会
+      icon: folder open
+      style: basic
+      url: http://www.cckf.org/zh/sino
+
+    - name: 故宫丨探索
+      icon: app store
+      style: basic
+      url: http://www.dpm.org.cn/Explore.html
+
+    - name: 故宫 Open Data
+      icon: twitter black
+      style: red
+      url: https://theme.npm.edu.tw/opendata/
+
+    - name: 台湾汉学数字导览
+      icon: indent right
+      style: basic
+      url: http://sinology.ascdc.sinica.edu.tw/index.html
+
+    - name: 国际汉学研究数字资源
+      icon: indent left
+      style: basic
+      url:  
+
+- section: public
+  categories:
+  - category: 公开课
+    links:
+    - name: TED
+      icon: 
+      style: basic
+      url: https://www.ted.com/
+
+    - name: 网易TED
+      icon: 
+      style: basic
+      url: https://open.163.com/ted/
+
+    - name: 译学馆
+      icon: 
+      style: basic
+      url: https://www.yxgapp.com/
+
+    - name: MOOC
+      icon: 
+      style: basic
+      url: https://www.icourse163.org/
+
+    - name: 网易公开课
+      icon: 
+      style: basic
+      url: https://open.163.com/
+
+    - name: 新浪公开课
+      icon: 
+      style: basic
+      url: http://open.sina.com.cn/
+
+    - name: 慕课网
+      icon: 
+      style: basic
+      url: https://www.imooc.com/
+
+    - name: 可汗学院
+      icon: 
+      style: basic
+      url: https://www.khanacademy.org/
+
+    - name: Edx
+      icon: 
+      style: basic
+      url: https://www.edx.org/
+
+    - name: MIT
+      icon: 
+      style: basic
+      url: https://ocw.mit.edu/index.htm
+
+    - name: 极客学院
+      icon: 
+      style: basic
+      url: http://www.jikexueyuan.com/
+
+    - name: 国图公开课
+      icon: 
+      style: orange
+      url: http://open.nlc.cn/onlineedu/client/index.htm
+
+    - name: 网易大学
+      icon: 
+      style: basic
+      url: https://open.163.com/cuvocw/
+
+    - name: 网易名校
+      icon: 
+      style: basic
+      url: https://open.163.com/ocw/
+
+    - name: 知乎回答
+      icon: 
+      style: basic
+      url: https://www.zhihu.com/question/27952897
+
+  - category: 学术文库
+    links:
+    - name: 豆丁
+      style: basic
+      url: http://www.docin.com/
+
+    - name: 360doc
+      style: basic
+      url: http://www.360doc.com/index.html
+
+    - name: 道客巴巴
+      style: basic
+      url: http://www.doc88.com/
+
+    - name: 爱问共享
+      style: basic
+      url: http://ishare.iask.sina.com.cn/
+
+    - name: 科学文库
+      style: basic
+      url: http://book.sciencereading.cn/shop/main/Login/shopFrame.do
+
+    - name: 丁香文档
+      style: basic
+      url: http://d.mdnews.cn/
+
+    - name: 中商文库
+      style: basic
+      url: https://embedy.cc/http://wk.askci.com/
+
+    - name: 百度文库
+      style: basic
+      url: https://wenku.baidu.com/
+
+    - name: 维基文库
+      style: basic
+      url: https://zh.wikisource.org/zh-hans/Wikisource:%E9%A6%96%E9%A1%B5
+
+    - name: MNA智库
+      style: basic
+      url: https://doc.mbalib.com/
+
+    - name: IT168文库
+      style: basic
+      url: http://wenku.it168.com/
+
+    - name: Free academic exploration~
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 学术数据
+    links:
+    - name: 标准网
+      icon: 
+      style: basic
+      url: http://www.standardcn.com/article/class_cx.asp?id=15&page=
+
+    - name: 世界银行
+      style: basic
+      url: http://www.shihang.org/
+
+    - name: 国家数据
+      style: basic
+      url: http://data.stats.gov.cn/
+
+    - name: 万方
+      style: white
+      url: http://g.wanfangdata.com.cn/index.html
+
+    - name: 超星
+      style: white
+      url:  http://www.chaoxing.com/
+
+    - name: 知网
+      style: white
+      url: http://www.cnki.net/
+
+    - name: 维普网
+      style: white
+      url:  http://www.cqvip.com/
+
+    - name: 中国科学院
+      style: basic
+      url: http://www.csdb.cn/
+
+    - name: WS世界科学
+      style: basic
+      url: https://www.worldscientific.com/
+
+    - name: 中国生命科学
+      style: basic
+      url: http://www.cba.ac.cn/
+
+    - name: NASA生命科学
+      style: basic
+      url: https://lsda.jsc.nasa.gov/
+
+    - name: 国家版权局
+      style: red
+      url: http://www.ncac.gov.cn/
+
+    - name: 六七八丨世界的创新源于学术的探索！
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 学术搜索
+    links:
+    - name: 百度学术
+      icon: 
+      style: basic
+      url: http://xueshu.baidu.com/
+
+    - name: 谷歌学术
+      icon: google blue
+      style: basic
+      url: https://scholar.google.com.hk/?hl=zh-CN
+
+    - name: 知网学术
+      icon: 
+      style: basic
+      url: http://scholar.cnki.net/new
+
+    - name: 美国专利
+      icon: 
+      style: basic
+      url: https://www.uspto.gov/blog/ebiz/
+
+    - name: 专利检索
+      icon: 
+      style: basic
+      url: http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml
+
+    - name: 中国专利
+      style: basic
+      url: http://www.patent.com.cn/
+
+    - name: Epo专利
+      style: basic
+      url: https://www.epo.org/index.html
+
+    - name: Pat专利
+      style: basic
+      url: https://www.patexplorer.com/
+
+    - name: 谷歌专利
+      icon: google red
+      style: basic
+      url:  https://www.google.com/?tbm=pts
+
+    - name: Soopat专利
+      icon: search
+      style: basic
+      url: http://www2.soopat.com/Home/IIndex/
+
+    - name: 必应学术
+      icon: bold
+      style: basic
+      url: https://cn.bing.com/academic
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: Mirror and proxy are here~
+      style: white
+      url: https://go.lq8.net
+
+  - category: 学术文化
+    links:
+    - name: 学信网
+      style: basic
+      url: https://www.chsi.com.cn/
+
+    - name: 考试院
+      style: basic
+      url: http://www.hebeea.edu.cn/
+
+    - name: 教育厅
+      style: basic
+      url: http://www.hee.gov.cn/
+
+    - name: 文化厅
+      style: basic
+      url: http://www.hebwh.gov.cn/
+
+    - name: 文博网
+      style: basic
+      url: http://www.wenbo.cc/
+
+    - name: 国家地理
+      style: basic
+      url: https://www.nationalgeographic.com/
+
+    - name: 网易探索
+      style: basic
+      url: http://discovery.163.com/
+
+    - name: 古籍保护网
+      style: basic
+      url: http://www.nlc.cn/pcab/
+
+    - name: 汉学研究中心
+      style: basic
+      url: http://ccs.ncl.edu.tw/sitemap.aspx
+
+    - name: 名古屋研究室
+      style: basic
+      url: https://toyoshi.lit.nagoya-u.ac.jp/zh/subjects-zh/
+
+    - name: 秉国风之宗旨立学术之文化！
+      style: white
+      url: https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%A2%A8_(%E5%AD%B8%E8%A1%93%E6%96%87%E5%8C%96)
+
+  - category: 期刊基金
+    links:
+    - name: OAlib
+      style: basic
+      url: http://www.oalib.com/
+
+    - name: 资源检索
+      style: basic
+      url: http://nav.sciinfo.cn/QiKan.aspx
+
+    - name: 梅斯期刊
+      style: basic
+      url: http://www.medsci.cn/sci/
+
+    - name: 中外电子文献资源导航
+      icon: code blue
+      style: basic
+      url: http://www.mynav.cn/shujuk/index.html
+
+    - name: CNKI期刊
+      style: basic
+      url: http://cb.cnki.net/
+
+    - name: SCI影响因子
+      style: basic
+      url: http://open.163.com/
+
+    - name: CAlis联合
+      style: basic
+      url: http://opac.calis.edu.cn/opac/simpleSearch.do
+
+    - name: 突破奖
+      style: teal
+      url: https://breakthroughprize.org/
+
+    - name: CAlis高校
+      style: basic
+      url: http://www.calis.edu.cn/
+
+    - name: 邵逸夫奖
+      icon: user o
+      style: basic
+      url: http://www.shawprize.org/en/
+
+    - name: 诺贝尔基金
+      icon: heart red
+      style: basic
+      url: https://www.nobelprize.org/
+
+- section: hyr
+  categories:
+  - category: 河艺校园
+    links:
+    - name: 河艺官网
+      style: basic
+      url: http://www.hebart.com/
+
+    - name: 直属单位
+      style: basic
+      url: http://www.hebwh.gov.cn/zsdw/index.jsp?catalogId=2c9081fb5711bf50015712170c7c0002
+
+    - name: 教务系统
+      style: basic
+      url: http://www.hebart.com/jwc/
+
+    - name: 招生网
+      style: basic
+      url: http://www.hebart.com/zsw/
+
+    - name: 文管系
+      style: basic
+      url: http://www.hebart.com/wgx/
+
+    - name: 舞蹈系
+      style: basic
+      url: http://www.hebart.com/wdx/
+
+    - name: 百科详情
+      style: basic
+      url: https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2
+
+    - name: 河艺贴吧
+      style: basic
+      url: http://dq.tieba.com/f?kw=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&fr=home
+
+    - name: 河艺领英
+      style: basic
+      url: https://www.linkedin.com/school/%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2/
+
+    - name: 腾讯视频 相关
+      style: basic
+      url: https://v.qq.com/x/search/?q=%E6%B2%B3%E5%8C%97%E8%89%BA%E6%9C%AF%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2&stag=txt.playpage.vppdesc
+
+    - name: 古典舞《如梦令》
+      style: pink
+      url: https://www.bilibili.com/video/av16804529/
+
+    - name: 党政办公室
+      style: basic
+      url: http://www.hebart.com/dzb/
+
+    - name: Literary youths are moving forward here!
+      style: white
+      url: https://anyi98.github.io/
+
+  - category: 古籍影像
+    links:
+    - name: 先秦词汇资料库
+      icon: app store
+      style: basic
+      url: http://inscription.asdc.sinica.edu.tw/
+
+    - name: 汉籍电子文献库
+      style: basic
+      url: http://hanji.sinica.edu.tw/index.html
+
+    - name: 中国哲学书电子化
+      style: basic
+      url: https://ctext.org/zhs
+
+    - name: 古籍文献库检索
+      icon: app store
+      style: basic
+      url: http://rbook2.ncl.edu.tw/Search/Index/0
+
+    - name: 郭店楚简资料库
+      style: basic
+      url: http://bamboo.lib.cuhk.edu.hk/
+
+    - name: 巴伐利亚数字库
+      icon: app store
+      style: basic
+      url: https://ostasien.digitale-sammlungen.de/;jsessionid=47DBECBC531FC5C93346818508B04D64?locale=zh_TW
+
+    - name: 东京国立画像检索
+      style: basic
+      url: https://webarchives.tnm.jp/imgsearch/
+
+    - name: 澳门大学古籍影像
+      icon: app store
+      style: basic
+      url: http://libdigital.umac.mo/was5/digital/chinese_rarebook.jsp?iPage=1
+
+    - name: 普林斯顿数字馆
+      style: basic
+      url: http://pudl.princeton.edu/
+
+    - name: 东京大学善本库
+      style: basic
+      url: http://shanben.ioc.u-tokyo.ac.jp/list.php
+
+    - name: 京都大学拓本库
+      icon: app store
+      style: basic
+      url: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/index.html
+
+    - name: 日本浮世绘资源
+      style: teal
+      url: https://ukiyo-e.org/
+
+    - name: 日本国图数字馆
+      style: blue
+      url: http://dl.ndl.go.jp/
+
+    - name: 日本数字档案馆
+      style: basic
+      url: https://www.digital.archives.go.jp/index_e.html
+
+  - category: 冗杂之所
+    links:
+    - name: 论坛
+      icon: user
+      style: basic
+      url: http://bbs.lq8.net/
+
+    - name: 搜索
+      icon: spinner
+      style: basic
+      url: https://so.lq8.net/
+
+    - name: 探索
+      icon: google
+      style: basic
+      url: https://go.lq8.net/
+      
+    - name: 短网址
+      icon: spinner
+      style: basic
+      url: https://757.life/
+
+    - name: 提交收录
+      icon: envelope
+      style: basic
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%E4%B8%A8%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95%E5%8F%8A%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-%E5%A3%B0%E6%98%8E
+
+    - name: 建立友链
+      icon: envelope
+      style: basic
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+
+    - name: 本站所收录网站至此完结，欢迎提交收录。
+      icon: github black
+      style: basic
+      url: https://lq8.net/
+
+    - name: The website is maintained by ANYI!
+      style: white
+      url: https://blog.lq8.net/
+
+- section: auction
+  categories:
+  - category: 购好物
+    links:
+    - name: 洋觅网
+      style: basic
+      url: http://www.ymi.cn/
+      
+    - name: 佳士得
+      style: basic
+      url: https://www.christies.com/zh-cn/?sc_lang=zh-cn&lid=4
+
+    - name: 苏富比
+      style: basic
+      url: https://www.sothebys.com/zh-hant/
+      
+    - name: 华夏收藏
+      style: basic
+      url: http://www.cang.com/
+
+    - name: 中汉艺术
+      style: basic
+      url: http://www.johan.cn/
+
+    - name: 雅昌艺术
+      style: basic
+      url: http://auction.artron.net/
+
+    - name: 嘉德艺术
+      style: basic
+      url: http://www.artrade.com/
+
+    - name: 嘉德国际
+      style: basic
+      url: http://www.cguardian.com/
+
+    - name: 保利国际
+      style: basic
+      url: http://www.polypm.com.cn/
+      
+    - name: 7788收藏
+      style: basic
+      url: http://www.997788.com/
+     
+    - name: 7788旧书
+      style: basic
+      url: http://js.7788.com/7788js.php
+
+    - name: 孔夫子旧书
+      style: basic
+      url: https://www.kongfz.com/
+
+    - name: 有路网旧书
+      style: basic
+      url: http://www.youlu.net/
+
+- section: friend
+  categories:
+  - category: 友情链接
+    links:
+    - name: 北邮人
+      style: basic
+      url: https://byr-navi.com/
+
+    - name: 钛导航
+      style: basic
+      url: https://web.geekji.cn/
+
+    - name: 不死鸟
+      style: basic
+      url: https://lai.yuweining.cn/
+
+    - name: 前端氪
+      style: basic
+      url: https://csskr.com/
+
+    - name: 野创网
+      style: basic
+      url: http://www.yechuang.top
+
+    - name: 98导航
+      style: basic
+      url: http://98dh.cc/
+
+    - name: GY导航
+      style: basic
+      url: http://nav.ailuoku6.top/
+
+    - name: 爱达导航
+      style: basic
+      url: https://ada97.com/
+
+    - name: 小呆导航
+      style: basic
+      url: http://webjike.com
+      
+    - name: 绿狐导航
+      style: basic
+      url: http://www.lvfox.cn/
+     
+    - name: 果汁导航
+      style: basic
+      url: http://guozhivip.com/nav/
+
+    - name: 咪咕鱼导航
+      style: basic
+      url: http://miguyu.com/
+
+    - name: 产品汇导航
+      style: basic
+      url: https://www.prohui.com/start
+
+    - name: 友链申请
+      style: basic
+      url: https://blog.lq8.net/%E5%AE%89%E9%80%B8%E5%AF%BC%E8%88%AA%C2%B7anyi-navi%E4%B8%A8%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5

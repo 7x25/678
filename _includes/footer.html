@@ -1,0 +1,39 @@
+<div class="ui inverted vertical footer segment">
+    <div class="ui container">
+        <div class="ui stackable inverted divided equal height stackable grid">
+            <div class="three wide column">
+                <h4 class="ui inverted header">@谏言</h4>
+                <div class="ui inverted link list">
+                    {% for item in site.data.jianyan %}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endfor %}
+                </div>
+            </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">@安逸</h4>
+                <div class="ui inverted link list">
+                    {% for item in site.data.guanyu %}<a class="item" href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endfor %}
+                </div>
+            </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">@关于</h4>
+                <div class="ui inverted link list">
+                    <a class="item" href="{{ site.author_url }}" target="_blank">{{ site.author }}</a>
+                    <a class="item" href="https://anyiart.github.io/about/" target="_blank">About</a>
+                    <a class="item" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=g298@qq.com" target="_blank">G298@qq.com</a>
+                </div>
+            </div>
+            <div class="seven wide column">
+                <h4 class="ui inverted header">{{ site.title }}</h4>
+                <div class="ui inverted link list">
+                    <div class="item">&copy; {{ site.time | date: "%Y" }} {{ site.organization }}</div>
+                    <div class="item">The maintainer of the project is by AnYi.</div>
+                    <a class="item loading-trigger" href="{{ '/analytics/' | relative_url }}">
+                        Visits / Page Views:
+                        <span id="today-visits">0</span> / <span id="today-actions">0</span> (Today)
+                        &middot;
+                        <span id="yesterday-visits">0</span> / <span id="yesterday-actions">0</span> (Yesterday)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

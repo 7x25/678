@@ -1,0 +1,14 @@
+- id: baidu
+  name: 百度
+  url: https://baidu.com/s?wd=
+  suffix: "&ie=utf-8"
+  shortcut: 百度
+  icon: paw red inverted
+  style: black
+
+- id: google
+  name: 谷歌
+  url: https://www.google404.net//search?q=
+  shortcut: 谷歌
+  icon: google blue inverted
+  style: black
